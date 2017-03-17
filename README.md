@@ -6,7 +6,7 @@ At iOS 8.0 later, we use UIAlertController, it's not friendly, so we  replace it
 
 ------
 
-
+![ACAlertControllerExampleGif](https://github.com/honeycao/ACAlertController/blob/master/ACAlertControllerExampleGif.gif)
 
 
 
