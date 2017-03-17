@@ -17,14 +17,14 @@ At iOS 8.0 later, we use UIAlertController, it's not friendly, so we  replace it
 
 ## Architecture
 
-* [How to use](#How to use)
+* [How to use](#use)
 * [Details (See the example program ACAlertControllerExample for details)](#Details)
 * [Custom](#Custom)
 * [Hope](#hope)
 
 
 
-## <a id="How to use"></a>How to use
+## <a id="use"></a>How to use
 
 * Use CocoaPods:
   - waiting...
