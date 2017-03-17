@@ -32,7 +32,7 @@ At iOS 8.0 later, we use UIAlertController, it's not friendly, so we  replace it
   - Drag All files in the `ACAlertController` folder to project
   - Import the main file：`#import "ACAlertController.h"`
 
-## Details (See the example program ACAlertControllerExample for details)
+## <a id="Detail"></a>Details (See the example program ACAlertControllerExample for details)
 
 ```objective-c
 //1、初始化
