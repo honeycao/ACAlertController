@@ -27,7 +27,7 @@ At iOS 8.0 later, we use UIAlertController, it's not friendly, so we  replace it
 ## <a id="use"></a>How to use
 
 * Use CocoaPods:
-  - waiting...
+  - `pod 'ACAlertController'`
 * Manual import：
   - Drag All files in the `ACAlertController` folder to project
   - Import the main file：`#import "ACAlertController.h"`
